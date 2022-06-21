@@ -28,22 +28,6 @@ con.connect((err)=>{
     }
 });
 
-// con.query("DROP TABLE sample", 
-// (err, drop) => {
-
-// // Query to create table "sample"
-// var createStatament = 
-// "CREATE TABLE sample (Name varchar(255), " +
-// "Email varchar(255), Phone int, Status varchar(255))"
-
-// // Creating table "sample"
-// con.query(createStatament, (err, drop) => {
-//     if (err)
-//         console.log("ERROR: ", err);
-// });
-// });
-
-
 const fileName = "DHL.csv";
   
 csvtojson().fromFile(fileName).then(source => {
