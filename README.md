@@ -4,7 +4,7 @@ A script to auto import csv data into a SQL table (Billing)
 
 Setup:
 
-- Create tables in localhost following the same format of: billing.fulfilment_default_price_lists (remove id), billing.shipping_service_codes, billing.regions,billing.shipping_service_codes. 
+- Create tables in localhost following the same format of: billing.fulfilment_default_price_lists (remove id), billing.shipping_service_codes, billing.regions,billing.shipping_service_codes, billing.container_type_codes
 
 - Use DDL in table inspector if need be to create the tables. To insert into fulfilment_default_price_lists the other tables are needed due to foregin key checks. 
 
