@@ -16,3 +16,9 @@ Setup:
 Ensure your CSV is in the same format as example DHL.csv. If your CSV has different column names, change those to
 
 node index.js
+
+You can later run:
+
+SELECT * FROM billing.fulfilment_default_price_lists
+Where shipping_service_code = "*INSERT YOUR CODE HERE*"
+ORDER BY created_at desc
