@@ -1,0 +1,21 @@
+Shipping_Service_Code,Origin_Region,Destination_Region,Container_ID,Weight,Description,Price,Additional_Price_Per_Kilo,Currency,Surcharge
+DHL,NL,NL,2,1000,DHL Parcel NL Large Letter up to 1Kg,3.94,0,GBP,0
+DHL,NL,NL,3,5000,DHL Parcel NL Small Packet up to 5Kg,4.7,0,GBP,0
+DHL,NL,NL,4,10000,DHL Parcel NL Small Parcel up to 10Kg,5.28,0,GBP,0
+DHL,NL,NL,5,23000,DHL Parcel NL Medium Parcel up to 23Kg,10.38,0,GBP,0
+DHL,NL,NL,7,31500,DHL Parcel NL Extra Large Parcel up to 31.5Kg,13.92,0,GBP,0
+DHL,NL,BE,2,1000,DHL Parcel NL Large Letter up to 1Kg,5.72,0,GBP,0
+DHL,NL,BE,3,5000,DHL Parcel NL Small Packet up to 5Kg,6.03,0,GBP,0
+DHL,NL,BE,4,10000,DHL Parcel NL Small Parcel up to 10Kg,6.34,0,GBP,0
+DHL,NL,BE,5,23000,DHL Parcel NL Medium Parcel up to 23Kg,11.96,0,GBP,0
+DHL,NL,BE,7,31500,DHL Parcel NL Extra Large Parcel up to 31.5Kg,15.17,0,GBP,0
+DHL,NL,NL,2,1000,DHL Parcel NL Large Letter up to 1Kg,4.53,0,EUR,0
+DHL,NL,NL,3,5000,DHL Parcel NL Small Packet up to 5Kg,5.4,0,EUR,0
+DHL,NL,NL,4,10000,DHL Parcel NL Small Parcel up to 10Kg,6.07,0,EUR,0
+DHL,NL,NL,5,23000,DHL Parcel NL Medium Parcel up to 23Kg,11.93,0,EUR,0
+DHL,NL,NL,7,31500,DHL Parcel NL Extra Large Parcel up to 31.5Kg,16,0,EUR,0
+DHL,NL,BE,2,1000,DHL Parcel NL Large Letter up to 1Kg,6.57,0,EUR,0
+DHL,NL,BE,3,5000,DHL Parcel NL Small Packet up to 5Kg,6.93,0,EUR,0
+DHL,NL,BE,4,10000,DHL Parcel NL Small Parcel up to 10Kg,7.29,0,EUR,0
+DHL,NL,BE,5,23000,DHL Parcel NL Medium Parcel up to 23Kg,13.75,0,EUR,0
+DHL,NL,BE,7,31500,DHL Parcel NL Extra Large Parcel up to 31.5Kg,17.44,0,EUR,0
